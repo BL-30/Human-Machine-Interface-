@@ -4,7 +4,7 @@
 </h3>
 
 <h4 align="center">
-	🚧 Development project in Machine Learning 🚀   🚧
+	🚧 Development project on a Human Machine Interface 🚀   🚧
 </h4>
 
 ## :rocket: Objectives
